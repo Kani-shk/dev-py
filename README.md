@@ -43,7 +43,7 @@ A simple Python script to create an S3 bucket, list existing buckets, and upload
 Edit the script file (main.py) with your desired:
  ```python 
    bucket_name (the bucket your file will be sent to)
-   region 
+   region (AWS region)
    file_name (path to your backup file)
    key_name (S3 object key)
 
